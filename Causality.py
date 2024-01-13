@@ -19,7 +19,7 @@ pd.options.mode.chained_assignment = None  # default='warn'
 import numpy as np
 
 import matplotlib.pyplot as plt
-from mpl_toolkits import axes_grid1
+# from mpl_toolkits import axes_grid1
 
 
 df = pd.read_csv('SAMI_CBSA.csv') 
