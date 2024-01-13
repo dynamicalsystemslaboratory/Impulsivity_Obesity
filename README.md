@@ -2,7 +2,7 @@
 
 The folders and files are:
 
-1-"SAMI_CBSA.csv" contains data on 811 metropolitan and micropolitan areas in the United States, including population, prevalence of obesity ($\textit{OB}$), prevalence of physical inactivity ($\textit{PI}$), prevalence of ADHD ($\textit{ADHD}$), prevalence of food insecure children ($\textit{FI}$), access to mental health providers ($\textit{MHP}$), prevalence of college education ($\textit{CE}$), and the SAMIs of these variables.
+1-"SAMI_CBSA.csv" contains data on 811 metropolitan and micropolitan statistical areas in the United States, including population, prevalence of obesity ($\textit{OB}$), prevalence of physical inactivity ($\textit{PI}$), prevalence of ADHD ($\textit{ADHD}$), prevalence of food insecure children ($\textit{FI}$), access to mental health providers ($\textit{MHP}$), prevalence of college education ($\textit{CE}$), and the SAMIs of these variables.
 
 2-"Scaling.py" is a script that provides an example of how we performed Urban Scaling Theory on the city-level data.
 
